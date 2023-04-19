@@ -35,7 +35,7 @@ section#login {
     /* Tudo que ficar fora da borda esconder */
 
     background-color: white;
-    width: 350px; /* Original 250px */
+    width: 320px; /* Original 250px */
     height: 500px;
     border-radius: 20px;
     box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.450);
